@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3_Xbf_Repro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_Xbf_Repro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
